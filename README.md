@@ -20,12 +20,25 @@
 
 ## Item 5
 
-![prompt features](https://ibb.co/XmcKHX7)
+prompt pra gerar as features do txt extraido do audio
+![prompt features](https://i.ibb.co/CxRYLBb/gerar-features.png)
+
+features geradas
+![features geradas](https://i.ibb.co/7tR7NHsf/Captura-de-tela-2025-02-02-183946.png)
 
 ## Item 6
 
+kimball
+![kimball](https://i.ibb.co/Ldb0Sjwv/kimball.png)
+
 ## Item 7
+
+[Dashboard Dadosfera](https://metabase-treinamentos.dadosfera.ai/dashboard/202-a-look-at-tb-93bj3s-desempenho-funcionarios?CARGO=&DEPARTAMENTO=)
+
+[Dashboard 2 Dadosfera](https://metabase-treinamentos.dadosfera.ai/dashboard/201-dash-desempenho-funcionarios)
 
 ## Item 8
 
 ## Item 9
+
+[Streamlit](https://guilhermelff-streamlitdash-streamlit-dash-i8dfdh.streamlit.app/)
