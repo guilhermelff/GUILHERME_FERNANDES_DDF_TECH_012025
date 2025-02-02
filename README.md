@@ -1,14 +1,19 @@
 # Análise de dados e-commerce
 
-## Link apresentação youtube
-
 ## Item 0
+
+[Kanban ](https://github.com/users/guilhermelff/projects/1/views/1)
 
 ## Item 1
 
+[ Base de dados ](https://app.dadosfera.ai/pt-BR/catalog/data-assets/df344239-4a69-4e08-b024-c32ed66afb0b)
+
 ## Item 2
 
+[Conexão Google Sheets](https://app.dadosfera.ai/pt-BR/collect/connections/1738467138650_1elb9ytw_google-sheets-1.0.0)
+
 ## Item 3
+
 
 ## Item 4
 
