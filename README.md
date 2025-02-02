@@ -20,11 +20,7 @@
 
 ## Item 5
 
-
-```markdown
 ![prompt features](https://ibb.co/XmcKHX7)
-```
-
 
 ## Item 6
 
